@@ -40,8 +40,8 @@ name varchar(255) NOT NULL DEFAULT "",
 PRIMARY KEY (id)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 ```
-
-Configure yous host/port/database in:
+ 
+Configure yous host/port/database in: **_(Very important!)_**
 ![ScreenShot2017-03-16at15.15.03.png](http://ap.imagensbrasil.org/images/2017/03/16/ScreenShot2017-03-16at15.15.03.png)
 
 **Routes**
