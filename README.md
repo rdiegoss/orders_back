@@ -5,6 +5,8 @@
 1. back-end requires [Node.js](https://nodejs.org/en/) latest version to run.
 2. Install the dependencies and devDependencies and start the server.
 
+**BEFORE YOU RUN PROJECT, PLEASE, CONFIGURE YOU DATABASE CONFIGURATION BELOW**
+
 ```
 $ cd order_back
 $ npm install
